@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c7b7c9-b537-4177-89d3-8c49d7da5b1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.prot8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.prot8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PPS/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PPS/Level.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimulationEngine/Scenario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimulationEngine/Scenario.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,14 @@
     <property name="settings.editor.selected.configurable" value="RiderDotCoverFilteringPageId" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Dropbox/AAU/sem8 .aau/p8 -sem8 .aau/Builds -p8 -sem8 .aau/p8goldnomusic\ImmuneVR.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\peter\Dropbox\AAU\sem8 .aau\p8 -sem8 .aau\Builds -p8 -sem8 .aau\p8goldnomusic" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -89,6 +96,7 @@
       <workItem from="1651133936178" duration="7087000" />
       <workItem from="1651219362846" duration="5862000" />
       <workItem from="1651773120268" duration="684000" />
+      <workItem from="1653123515224" duration="463000" />
     </task>
     <servers />
   </component>
